@@ -1,7 +1,7 @@
 ---
 date: '2016-04-01'
-title: 'CourseSource'
-github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
+title: 'Break API'
+github: 'https://github.com/Praveengupta1/break-api'
 external: ''
 tech:
   - Angular

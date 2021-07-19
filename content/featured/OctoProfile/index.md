@@ -1,14 +1,15 @@
 ---
 date: '3'
-title: 'OctoProfile'
-cover: './octoprofile.png'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+title: 'Dashboard'
+cover: './home.jpg'
+github: 'https://github.com/Praveengupta1/dashboard1'
 tech:
-  - Next.js
+  - React.js
   - Chart.js
-  - GitHub API
+  - Redux API
+  - Socket.io
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.
+It is nice dashboard that manage data.
+It contains a good table that show your data and graph for stats.

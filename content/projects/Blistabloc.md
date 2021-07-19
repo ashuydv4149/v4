@@ -1,14 +1,14 @@
 ---
 date: '2018-05-01'
-title: 'blistabloc'
-github: ''
-external: 'https://blistabloc.com/'
+title: 'Happy Birthday'
+github: 'https://github.com/Praveengupta1/happybirthday'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
-showInProjects: false
+  - HTML
+  - JS
+  - CSS
+company: ''
+showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+wishing for birthday
