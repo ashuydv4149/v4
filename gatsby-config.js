@@ -5,7 +5,7 @@ module.exports = {
     title: 'Ashu Yadav',
     description:
       'Ashu Yadav is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://praveengupta.me', // No trailing slash allowed!
+    siteUrl: 'https://ashuyadav4149', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Praveen41400440',
   },
