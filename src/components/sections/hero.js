@@ -47,13 +47,23 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Praveen Gupta.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const one = <h1>Hii, Folks</h1>;
+  const two = (
+    <h2 className="big-heading">
+      Welcome to the <br />
+      Ashu World !.
+    </h2>
+  );
+  const three = (
+    <h3 className="big-heading">
+      I build things for <br />
+      the Android and iOS.
+    </h3>
+  );
   const four = (
     <p>
-      I'm a software engineer specializing in building (and occasionally designing) exceptional
-      digital experiences. Currently, I'm focused on building accessible, human-centered .
+      I'm a software engineer specializing in building (Android and iOS apps ) exceptional digital
+      experiences. Currently, I'm focused on building accessible, human-centered .
     </p>
   );
   const five = (

@@ -151,14 +151,18 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! I'm Praveen Gupta, a former software engineer at{' '}
-              <a href="http://vyorius.com/">Vyorius</a>
+              Hello! I'm Ashu Yadav, a software engineer at{' '}
+              <a href="https://www.facebook.com/ashuydv4149/?ti=as">Ashu App Developer</a>
             </p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              I enjoy creating things that live on the internet, I am always exploring new things
+              according to my interest,I am very interested in economics and finance . I like to
+              traveling to new places and exploring neww cultures region . I love to read books like
+              The Psychology of money,Think and Grow Rich, and Rich Dad Poor Dad. I love to watch
+              marvel movies , My favourite game is chess and football. applications, or anything in
+              between. I am vegetarian and very religious person, My goal is to always build
+              products that provide pixel-perfect, performant experiences.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Praveen Gupta',
+    title: 'Ashu Yadav',
     description:
-      'Praveen Gupta is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
+      'Ashu Yadav is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
     siteUrl: 'https://praveengupta.me', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@Praveen41400440',

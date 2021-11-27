@@ -1,26 +1,26 @@
 module.exports = {
-  email: 'praveengupta86012@gmail.com',
+  email: 'ashuydv4149@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/praveengupta1',
+      url: 'https://github.com/ashuydv4149',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/praveen_86012',
+      url: 'https://www.instagram.com/ashuydv.4149',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/Praveen41400440',
+      url: 'https://twitter.com/ashuydv4149',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/praveen-gupta-18a385170',
+      url: 'https://www.linkedin.com/in/ashuydv4149',
     },
     {
       name: 'Codepen',
-      url: 'https://codepen.io/parveen-gupta',
+      url: 'https://codepen.io/ashuydv4149',
     },
   ],
 
